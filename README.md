@@ -1,2 +1,2 @@
 # vtea
-iclup.cn用
+ad hosts
