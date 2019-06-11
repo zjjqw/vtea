@@ -621,6 +621,7 @@
 
 
 #video
+
 127.0.0.1 ebp.renren.com
 127.0.0.1 bolt.jebe.renren.com
 127.0.0.1 static.jebe.renren.com
@@ -782,8 +783,11 @@
 127.0.0.1 01daa.luvbr.com
 127.0.0.1 01daa.luytr.com
 127.0.0.1 01daa.luzdz.com
+127.0.0.1 r9uqp.cn
+127.0.0.1 ax1x.com
 
 #各大网络平台
+127.0.0.1 site.17989.com
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
 127.0.0.1 img3.126.net
@@ -860,3 +864,54 @@
 127.0.0.1 show.look.360.cn
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
+
+
+#未整理的
+
+127.0.0.1 www.mi.com
+127.0.0.1 3rd.ximalaya.com
+127.0.0.1 ad.ximalaya.com
+127.0.0.1 adcouponrpc.ximalaya.com
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 adwelfare.ximalaya.com
+127.0.0.1 api.ximalaya.com
+127.0.0.1 ar.ximalaya.com
+127.0.0.1 collectbs.ximalaya.com
+127.0.0.1 dns.ximalaya.com
+127.0.0.1 hybrid.ximalaya.com
+127.0.0.1 inside.ximalaya.com
+127.0.0.1 linkeye.ximalaya.com
+127.0.0.1 live.ximalaya.com
+127.0.0.1 location.ximalaya.com
+127.0.0.1 mermaid.ximalaya.com
+127.0.0.1 mobwsa.ximalaya.com
+127.0.0.1 mp.ximalaya.com
+127.0.0.1 mpay.ximalaya.com
+127.0.0.1 open.ximalaya.com
+127.0.0.1 www.open.ximalaya.com
+127.0.0.1 ops.ximalaya.com
+127.0.0.1 pns.ximalaya.com
+127.0.0.1 qm.ximalaya.com
+127.0.0.1 security.ximalaya.com
+127.0.0.1 sound.ximalaya.com
+127.0.0.1 mobile.test.ximalaya.com
+127.0.0.1 test.ximalaya.com
+127.0.0.1 xdcs-collector.ximalaya.com
+127.0.0.1 zhubo.ximalaya.com
+127.0.0.1 ss1.baidu.com
+127.0.0.1	ubmcmm.baidustatic.com
+127.0.0.1	cpro.baidu.com
+127.0.0.1	msg.video.qiyi.com
+127.0.0.1	track.cupid.qiyi.com
+127.0.0.1	show.cupid.qiyi.com
+127.0.0.1	pic1.qiyipic.com
+127.0.0.1	msg.iqiyi.com
+127.0.0.1	mixer.cupid.iqiyi.com
+127.0.0.1	ubmcmm.baidustatic.com
+127.0.0.1	cpro.baidu.com
+127.0.0.1	msg.video.qiyi.com
+127.0.0.1	track.cupid.qiyi.com
+127.0.0.1	show.cupid.qiyi.com
+127.0.0.1	pic1.qiyipic.com
+127.0.0.1	msg.iqiyi.com
+127.0.0.1	mixer.cupid.iqiyi.com
