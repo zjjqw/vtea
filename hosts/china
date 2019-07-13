@@ -20,12 +20,10 @@
 127.0.0.1 simba.m.taobao.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 stat.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 ai.taobao.com
 127.0.0.1 re.m.taobao.com
 127.0.0.1 re.taobao.com
-127.0.0.1 redirect.simba.taobao.com
 127.0.0.1 show.re.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 temai.taobao.com
@@ -93,7 +91,6 @@
 127.0.0.1 t.atpanel.com
 127.0.0.1 afp.adchina.com
 127.0.0.1 match.p4p.1688.com
-127.0.0.1 aecpm.alicdn.com
 127.0.0.1 alimama.alicdn.com
 127.0.0.1 gen.alicdn.com
 127.0.0.1 strip.alicdn.com
@@ -856,7 +853,25 @@
 
 
 #未整理的
-
+127.0.0.1 139.cjyeh3.com
+127.0.0.1 aod-image.baidu.com
+127.0.0.1 b343.playfabapi.com
+127.0.0.1 duyao001.com
+127.0.0.1 e.178pu.cn
+127.0.0.1 e.vkjnd.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 i.82i6e.cn
+127.0.0.1 m.178pu.cn
+127.0.0.1 m.nndplr.cn
+127.0.0.1 m.q671e.cn
+127.0.0.1 n.ji3a8n.cn
+127.0.0.1 p0.duyao001.com
+127.0.0.1 rc.dtnbnf.com
+127.0.0.1 s.qpqe.xyz
+127.0.0.1 s2.ax1x.com
+127.0.0.1 shared.ydstatic.com
+127.0.0.1 yqdz666.com
+127.0.0.1 z9.cnzz.com
 127.0.0.1 3rd.ximalaya.com
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adcouponrpc.ximalaya.com
@@ -886,7 +901,6 @@
 127.0.0.1 test.ximalaya.com
 127.0.0.1 xdcs-collector.ximalaya.com
 127.0.0.1 zhubo.ximalaya.com
-127.0.0.1 ss1.baidu.com
 127.0.0.1	ubmcmm.baidustatic.com
 127.0.0.1	cpro.baidu.com
 127.0.0.1	msg.video.qiyi.com
