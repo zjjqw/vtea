@@ -321,7 +321,7 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 service.danmu.youku.com
 127.0.0.1 statis.mobile.youku.com
-127.0.0.1 v2html.atm.youku.com
+127.0.0.1 exhtml.atm.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
@@ -969,10 +969,8 @@
 127.0.0.1	mixer.cupid.iqiyi.com
 127.0.0.1 stats.chinaz.com
 127.0.0.1 s2.ax1x.com
-127.0.0.1 https://s2.ax1x.com
 127.0.0.1 m.uohet.cn
 127.0.0.1 uohet.cn
-127.0.0.1 cdn.v2ex.com
 127.0.0.1 static.anquan.org
 127.0.0.1 s2.zdmimg.com
 127.0.0.1 adservice.google.com
