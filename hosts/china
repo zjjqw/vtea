@@ -70,11 +70,6 @@
 127.0.0.1 xianyu-video.alicdn.com^$important
 127.0.0.1 www.pangolin-dsp-toutiao.com^$important
 127.0.0.1 cibntv.net^$important
-127.0.0.1 scs-hcdn.iqiyi.com^$important
-127.0.0.1 comment-card.iqiyi.com^$important
-127.0.0.1 msga.cupid.iqiyi.com^$important
-127.0.0.1 static-s.iqiyi.com^$important
-127.0.0.1 ksyuncdnct.inter.iqiyi.com^$important
 
 #jd.com
 127.0.0.1 bdsp.x.jd.com
@@ -94,15 +89,8 @@
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
-127.0.0.1 m.simba.taobao.com
 127.0.0.1 mclick.simba.taobao.com
-127.0.0.1 simba.m.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 stat.simba.taobao.com
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 ai.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 re.taobao.com
+
 127.0.0.1 show.re.taobao.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 temai.taobao.com
@@ -305,29 +293,6 @@
 127.0.0.1 cpu.baidu.com
 127.0.0.1 kstj.baidu.com
 
-#youku.com
-127.0.0.1 adp.atm.youku.com
-127.0.0.1 iyes.youku.com
-127.0.0.1 m.atm.youku.com
-127.0.0.1 mf.atm.youku.com
-127.0.0.1 mobilemsg.youku.com
-127.0.0.1 push.m.youku.com
-127.0.0.1 bsv.atm.youku.com
-127.0.0.1 count.atm.youku.com
-127.0.0.1 dmapp.youku.com
-127.0.0.1 html.atm.youku.com
-127.0.0.1 ipm.atm.youku.com
-127.0.0.1 myes.youku.com
-127.0.0.1 r.l.youku.com
-127.0.0.1 service.danmu.youku.com
-127.0.0.1 statis.mobile.youku.com
-127.0.0.1 exhtml.atm.youku.com
-127.0.0.1 val.atm.youku.com
-127.0.0.1 valb.atm.youku.com
-127.0.0.1 valc.atm.youku.com
-127.0.0.1 valf.atm.youku.com
-127.0.0.1 valp.atm.youku.com
-127.0.0.1 valt.atm.youku.com
 
 # tcpdump
 127.0.0.1 api.cupid.ptqy.gitv.tv
@@ -953,12 +918,6 @@
 127.0.0.1 z9.cnzz.com
 127.0.0.1	ubmcmm.baidustatic.com
 127.0.0.1	cpro.baidu.com
-127.0.0.1	msg.video.qiyi.com
-127.0.0.1	track.cupid.qiyi.com
-127.0.0.1	show.cupid.qiyi.com
-127.0.0.1	pic1.qiyipic.com
-127.0.0.1	msg.iqiyi.com
-127.0.0.1	mixer.cupid.iqiyi.com
 127.0.0.1	ubmcmm.baidustatic.com
 127.0.0.1	cpro.baidu.com
 127.0.0.1	msg.video.qiyi.com
