@@ -1,2 +1,2 @@
-# vtea
-ad hosts
+# AdGuardHome
+中国地区DNS拦截
