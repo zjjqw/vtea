@@ -5,7 +5,7 @@
 #速递易京东广告推广
 127.0.0.1 scs.openspeech.cn
 #收费网络验证权限
-127.0.0.1 api.leancloud.cn
+127.0.0.1 api.leancloud.com
 #百度网盘浮动广告
 127.0.0.1 staticsns.cdn.bcebos.com
 #Pixiv
@@ -454,7 +454,6 @@
 127.0.0.1 hpd.baidu.com
 127.0.0.1 idm-su.baidu.com
 127.0.0.1 idm.bce.baidu.com
-127.0.0.1 miao.baidu.com
 127.0.0.1 mipengine.baidu.com
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads.baidu.com
