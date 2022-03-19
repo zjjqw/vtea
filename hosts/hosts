@@ -1,12 +1,10 @@
 #version: 20220319
 @https://raw.githubusercontent.com/zhoujianvip/vtea/master/hosts/hosts
-#alicdn
-127.0.0.1 afp.alicdn.com
-127.0.0.1 afpmm.alicdn.com
-127.0.0.1 asearch.alicdn.com
-127.0.0.1 atanx.alicdn.com
-127.0.0.1 atanx2.alicdn.com
-127.0.0.1 nbsdk-baichuan.alicdn.com
+
+#pdd
+127.0.0.1 pinduoduo.com
+127.0.0.1 yangkeduo.com
+127.0.0.1 pddpic.com
 #alimama
 127.0.0.1 a.alimama.cn
 127.0.0.1 afpeng.alimama.com
