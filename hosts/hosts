@@ -1,4 +1,4 @@
-#version: 202109111010
+#version: 20220319
 @https://raw.githubusercontent.com/zhoujianvip/vtea/master/hosts/hosts
 #alicdn
 127.0.0.1 afp.alicdn.com
@@ -390,17 +390,7 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 rdstat.tanx.com
 127.0.0.1 toruk.tanx.com
-@cps-taobao-simba
-127.0.0.1 click.mz.simba.taobao.com
-127.0.0.1 click.tz.simba.taobao.com
-127.0.0.1 dsp.simba.taobao.com
-127.0.0.1 fav.simba.taobao.com
-127.0.0.1 m.simba.taobao.com
-127.0.0.1 mclick.simba.taobao.com
-127.0.0.1 simba.m.taobao.com
-127.0.0.1 srd.simba.taobao.com
-127.0.0.1 stat.simba.taobao.com
-127.0.0.1 textlink.simba.taobao.com
+
 #ali-umeng
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.wsq.umeng.com
@@ -1271,18 +1261,7 @@
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
-@cps-taobao-click
-127.0.0.1 click.simba.taobao.com
-127.0.0.1 ju.taobao.com
-127.0.0.1 tejia.taobao.com
-127.0.0.1 tui.taobao.com
-127.0.0.1 tyh.taobao.com
-127.0.0.1 g.click.taobao.com
-127.0.0.1 i.click.taobao.com
-127.0.0.1 s.click.taobao.com
-127.0.0.1 s.click.tmall.com
-127.0.0.1 temai.m.taobao.com
-127.0.0.1 jx.tmall.com
+
 @cps-jd
 127.0.0.1 ccc.x.jd.com
 127.0.0.1 click.jr.jd.com
@@ -14222,3 +14201,61 @@
 127.0.0.1 supercell.helpshift.com
 127.0.0.1 www.pangolin-dsp-toutiao.com
 127.0.0.1 cibntv.net
+127.0.0.1 a2put.chinaz.com^
+127.0.0.1 qhres2.com^
+127.0.0.1 js.passport.qihucdn.com^
+127.0.0.1 k128-mzstatic.gslb.ksyuncdn.com
+127.0.0.1 eopa.n.shifen.com
+127.0.0.1 qtsftl.m.cn.miaozhen.com
+127.0.0.1 clog.ptskysrt.gitv.tv
+127.0.0.1 cl-dl.ptskysrt.gitv.tv
+127.0.0.1 hoisin.ptskysrt.gitv.tv
+127.0.0.1 www.letv.com
+127.0.0.1 www.ifeng.com
+127.0.0.1 qr.ptskysrt.gitv.tv
+127.0.0.1 yfiqiyi.yfcdn.net
+127.0.0.1 policy.video.ptqy.gitv.tv
+127.0.0.1 k128.gslb.ksyuncdn.com
+127.0.0.1 input.shouji.sogou.com
+127.0.0.1 api.kkapp.com
+127.0.0.1 pdm.kkapp.com
+127.0.0.1 ctyuncdnct.inter.ptqy.gitv.tv
+127.0.0.1 business-video-tc.ptskysrt.gitv.tv
+127.0.0.1 data-hoisin.ptskysrt.gitv.tv
+127.0.0.1 hoisin.coocaa.com
+127.0.0.1 qr.coocaa.com
+127.0.0.1 data-hoisin.coocaa.com
+127.0.0.1 tc.skysrt.com
+127.0.0.1 safebrowsing.googleapis-cn.com
+127.0.0.1 uop.umeng.com
+127.0.0.1 passport.coocaa.com
+127.0.0.1 cl-dl.cc0808.com
+127.0.0.1 clog.skysrt.com
+127.0.0.1 ad.aginomoto.com
+127.0.0.1 t.in-neo.cn
+127.0.0.1 e4518.dscapi7.akamaiedge.net
+127.0.0.1 c.go-mpulse.net
+127.0.0.1 vip.aiseewhaley.aisee.tv
+127.0.0.1 hmma.baidu.com
+127.0.0.1 ss2.88000022.xyz
+127.0.0.1 545c.com
+127.0.0.1 webapi.ctfile.com
+127.0.0.1 ctfile.com
+127.0.0.1 www.pdffx.com
+127.0.0.1 ad.znsfff.cn
+127.0.0.1 outlink.chinaz.com
+127.0.0.1 cjjwh.cn
+127.0.0.1 www.so.com
+127.0.0.1 www.hualiyu.cn
+127.0.0.1 zgccbj.com
+127.0.0.1 m.5xts.com
+127.0.0.1 01b41205.tt.x.bsgslb.cn
+127.0.0.1 qn.hotgod.cc
+127.0.0.1 www.ndnslab.com
+127.0.0.1 ttl1-31104000.dns-server.idealeer.com
+127.0.0.1 pddpic.com
+127.0.0.1 pddpic.com
+127.0.0.1 hi5.88000022.xyz
+127.0.0.1 tj.psvr.wps.cn
+127.0.0.1 geo.wps.cn
+127.0.0.1 yunzhongzhuan.com
