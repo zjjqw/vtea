@@ -1,5 +1,23 @@
-#version: 20220319
+#version: 202204
 @https://raw.githubusercontent.com/zhoujianvip/vtea/master/hosts/hosts
+127.0.0.1 yiyouliao.com
+127.0.0.1 wejianzhan.com
+127.0.0.1 adanxing.com
+127.0.0.1 idouyinvod.com
+127.0.0.1 douyinvod.com
+127.0.0.1 pinduoduo.com
+127.0.0.1 yangkeduo.com
+127.0.0.1 pddpic.com
+127.0.0.1 yongnuo.com.cn
+127.0.0.1 api.jialiangad.com
+127.0.0.1 bubble.ic.ksosoft.com
+127.0.0.1 romsdk-mobile.uu.163.com
+127.0.0.1 hubble.netease.com
+127.0.0.1 qlhk.88000022.xyz
+127.0.0.1 m.jingyanlib.com
+127.0.0.1 pconline.com.cn
+127.0.0.1 passport.biligame.com
+
 
 #pdd
 127.0.0.1 pinduoduo.com
@@ -760,12 +778,6 @@
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagservices.com
-127.0.0.1 cm.jd.com
-127.0.0.1 im-x.jd.com
-127.0.0.1 img-x.jd.com
-127.0.0.1 u-x.jd.com
-127.0.0.1 u.x.jd.com
-127.0.0.1 x.jd.com
 127.0.0.1 360fenxi.mediav.com
 127.0.0.1 3m.mediav.com
 127.0.0.1 cjhd.mediav.com
@@ -1259,11 +1271,6 @@
 127.0.0.1 stream.shuzilm.cn
 127.0.0.1 www.shuzilm.cn
 
-@cps-jd
-127.0.0.1 ccc.x.jd.com
-127.0.0.1 click.jr.jd.com
-127.0.0.1 jrclick.jd.com
-127.0.0.1 stat.m.jd.com
 @errorpage/click
 127.0.0.1 marketres.feidee.com
 127.0.0.1 app.shandjj.com
@@ -2259,9 +2266,7 @@
 #www.dangdang.com
 127.0.0.1 a.dangdang.com
 127.0.0.1 click.dangdang.com
-#www.jd.com
-127.0.0.1 ads.union.jd.com
-127.0.0.1 du.jd.com
+
 #www.smzdm.com
 127.0.0.1 s2.zdmimg.com
 127.0.0.1 res-ga.smzdm.com
