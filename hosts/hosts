@@ -897,23 +897,8 @@
 127.0.0.1 choice.microsoft.com.nsatc.net
 127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
 #mstat/report
-127.0.0.1 aeventlog.beacon.qq.com
-127.0.0.1 android.rqd.qq.com
-127.0.0.1 astrategy.beacon.qq.com
-127.0.0.1 eventlog.beacon.qq.com
-127.0.0.1 monitor.uu.qq.com
-127.0.0.1 omgmta.qq.com
-127.0.0.1 omgmta1.qq.com
-127.0.0.1 oth.eve.mdt.qq.com
-127.0.0.1 oth.str.mdt.qq.com
-127.0.0.1 oth.update.mdt.qq.com
-127.0.0.1 p.ssp.qq.com
-127.0.0.1 pingma.qq.com
-127.0.0.1 sngmta.qq.com
-127.0.0.1 strategy.beacon.qq.com
-#qq-1
-127.0.0.1 dp3.qq.com
-127.0.0.1 imc.l.qq.com
+
+
 #qq-ad
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
