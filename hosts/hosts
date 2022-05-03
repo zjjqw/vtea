@@ -918,37 +918,7 @@
 127.0.0.1 adsview2.qq.com
 127.0.0.1 adv.app.qq.com
 127.0.0.1 adver.qq.com
-127.0.0.1 analy.qq.com
-127.0.0.1 btrace.qq.com
-127.0.0.1 j.wit.qq.com
-127.0.0.1 jqmt.qq.com
-127.0.0.1 jsqmt.qq.com
-127.0.0.1 mini2015.qq.com
-127.0.0.1 op.ssp.qq.com
-127.0.0.1 pacaio.match.qq.com
-127.0.0.1 qqshow2-item.qq.com
-127.0.0.1 setting.snswin.qq.com
-127.0.0.1 tdc.qq.com
-127.0.0.1 tj.video.qq.com
-127.0.0.1 updatecenter.qq.com
-127.0.0.1 video.ureport.push.qq.com
-127.0.0.1 video.wap.mpush.qq.com
-127.0.0.1 wap.mpush.qq.com
-#qq-t
-127.0.0.1 ta.qq.com
-127.0.0.1 tajs.qq.com
-127.0.0.1 tcss.qq.com
-127.0.0.1 p.tencentmind.com
 
-#qq-gtimg
-127.0.0.1 beacon.gtimg.com
-127.0.0.1 bla.gtimg.com
-127.0.0.1 lb.gtimg.com
-127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 ra.gtimg.com
-127.0.0.1 wa.gtimg.com
-127.0.0.1 wb.gtimg.com
-127.0.0.1 pgdt.ugdtimg.com
 
 #sina-com.cn
 127.0.0.1 ad4.sina.com.cn
@@ -1309,12 +1279,7 @@
 127.0.0.1 jdb.jiudingcapital.cn
 127.0.0.1 jdb.jiudingcapital.com
 127.0.0.1 www.jiedaibao.com
-#down-
-127.0.0.1 scdown.qq.com
-127.0.0.1 download.sj.qq.com
-127.0.0.1 c.gj.qq.com
-127.0.0.1 t.sj.qq.com
-127.0.0.1 ws.sj.qq.com
+
 @down/virus
 #dabaicai
 127.0.0.1 www.winbaicai.com
@@ -1455,7 +1420,6 @@
 127.0.0.1 conf.hpplay.cn
 127.0.0.1 adcdn.hpplay.cn
 127.0.0.1 g.dtv.cn.miaozhen.com
-127.0.0.1 android.bugly.qq.com
 127.0.0.1 alog.umeng.com
 127.0.0.1 hotupgrade.hpplay.cn
 127.0.0.1 pin.hpplay.cn
@@ -1521,19 +1485,7 @@
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 ad.gtbrowser.com
-#http://mb.qq.com/
-127.0.0.1 adsense.html5.qq.com
-127.0.0.1 game.html5.qq.com
-127.0.0.1 jpush.html5.qq.com
-127.0.0.1 mqqad.cs0309.html5.qq.com
-127.0.0.1 mqqad.html5.qq.com
-127.0.0.1 novelsns.html5.qq.com
-127.0.0.1 pvstat.html5.qq.com
-127.0.0.1 tpush.html5.qq.com
-127.0.0.1 adsolution.imtt.qq.com
-127.0.0.1 mqqadr.reader.qq.com
-127.0.0.1 news.mpush.qq.com
-127.0.0.1 canvas.gdt.qq.com
+
 #http://mse.360.cn/
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn
@@ -1603,9 +1555,7 @@
 #http://download.sopcast.com/download/SopCast.zip.apk
 #https://sites.google.com/site/mxvpen/
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
-#http://www.togic.com/wap/download.html
-127.0.0.1 livep.l.ott.video.qq.com
-127.0.0.1 lives.l.ott.video.qq.com
+
 #http://www.yuntutv.net/
 127.0.0.1 adm.zookingsoft.com
 127.0.0.1 ytapi1.nagezan.net
@@ -1671,9 +1621,7 @@
 127.0.0.1 news-l.play.aiseet.atianqi.com
 127.0.0.1 p-l.play.aiseet.atianqi.com
 127.0.0.1 t-l.play.aiseet.atianqi.com
-#v.qq.com #http://www.togic.com/livetv.html
-127.0.0.1 news-l.play.ott.video.qq.com
-127.0.0.1 omgmta.play.ott.video.qq.com
+
 #http://www.91vst.com/index.html
 127.0.0.1 lives.l.cp81.ott.cibntv.net
 127.0.0.1 news-l.play.cp81.ott.cibntv.net
@@ -1772,17 +1720,7 @@
 #www.douyu.com
 127.0.0.1 ad.hpplay.cn
 127.0.0.1 adeng.hpplay.cn
-#http://im.qq.com/
-127.0.0.1 jrlt.beacon.qq.com
-127.0.0.1 log.tbs.qq.com
-127.0.0.1 activeqq.3g.qq.com
-127.0.0.1 masdk.3g.qq.com
-127.0.0.1 pmir.3g.qq.com
-127.0.0.1 cmshow.gtimg.cn
-#http://weixin.qq.com/
-127.0.0.1 wxsnsdy.tc.qq.com
-127.0.0.1 vlive.qqvideo.tc.qq.com
-127.0.0.1 wxsnsdy.video.qq.com
+
 #http://yixin.im/
 127.0.0.1 ad.yixin.im
 #https://twitter.com/
@@ -1841,8 +1779,7 @@
 #https://itunes.apple.com/cn/app/lao-zi-sou-shu/id1147985301
 127.0.0.1 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 #http://kuaibao.qq.com/mobile.html
-127.0.0.1 news.l.qq.com
-127.0.0.1 p.l.qq.com
+
 127.0.0.1 swa.gtimg.com
 127.0.0.1 tui.gtimg.com
 127.0.0.1 ss.missyouxi.com
@@ -7417,12 +7354,7 @@
 127.0.0.1 dp3.play.aiseet.atianqi.com
 127.0.0.1 livep.l.aiseet.atianqi.com
 127.0.0.1 lives.l.aiseet.atianqi.com
-127.0.0.1 vmindhls.tc.qq.com
-127.0.0.1 monitor-uu.play.aiseet.atianqi.com
-127.0.0.1 sdkconfig.play.aiseet.atianqi.com
-127.0.0.1 livew.l.qq.com
-127.0.0.1 c.l.qq.com
-127.0.0.1 mdevstat.qqlive.qq.com
+
 #iqiyi
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 api.yuedu.iqiyi.com
