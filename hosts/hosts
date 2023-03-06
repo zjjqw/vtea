@@ -1,4 +1,4 @@
-#version: 202204
+#version: 202303
 @https://raw.githubusercontent.com/zhoujianvip/vtea/master/hosts/hosts
 
 127.0.0.1 zoukankan.com
