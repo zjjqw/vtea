@@ -1,5 +1,57 @@
 #version: 202204
 @https://raw.githubusercontent.com/zhoujianvip/vtea/master/hosts/hosts
+
+127.0.0.1 zoukankan.com
+127.0.0.1 adobe.com
+127.0.0.1 tv.sohu.com
+127.0.0.1 crisp.chat
+127.0.0.1 ibruce.info
+127.0.0.1 mon.zijieapi.com
+127.0.0.1 jtypkz2w.sched.d2.tdnsdp1.cn.cjt.cdn.chinaidcnet.com
+127.0.0.1 pub.idqqimg.com
+127.0.0.1 mermaidhera.ximalaya.com
+127.0.0.1 h5.qzone.qq.com
+127.0.0.1 adbehavior.ximalaya.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 mobile.tx.ximalaya.com
+127.0.0.1 tnc3-alisc1.zijieapi.com.w.kunluncan.com
+127.0.0.1 xdcs-collectorhera.ximalaya.com
+127.0.0.1 swallow.apple.com
+127.0.0.1 m.ctc.ximalaya.com
+127.0.0.1 joinchitchat.com
+127.0.0.1 live.ximalaya.com
+127.0.0.1 hcdnw.xmly.ctcuv6.c.cdnhwc6.com
+127.0.0.1 imagev2.xmcdn.com
+127.0.0.1 cloudcontrol.ai.xiaomi.com
+127.0.0.1 ar.ctc.ximalaya.com
+127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
+127.0.0.1 wp.rkzgggw.cn
+127.0.0.1 adse.nhctc.ximalaya.com
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 mres.ximalaya.com
+127.0.0.1 gslbtx.ximalaya.com
+127.0.0.1 mp.ximalaya.com
+127.0.0.1 adwbs.ximalaya.com
+127.0.0.1 gslbali.ximalaya.com
+127.0.0.1 mermaid.ximalaya.com
+127.0.0.1 waf.ctc.ximalaya.com
+127.0.0.1 cdn-api-verify.mob.com.w.kunluncan.com
+127.0.0.1 id6.me
+127.0.0.1 mob.com
+127.0.0.1 xuid-server.ximalaya.com
+127.0.0.1 opencloud.wostore.cn
+127.0.0.1 getui.com
+127.0.0.1 aliyunddos1026.com
+127.0.0.1 xiake.eyezchina.com
+127.0.0.1 www.yisu.com
+127.0.0.1 ppui-static-pc.cdn.bcebos.com
+127.0.0.1 betagame.migufun.com
+127.0.0.1 mgsv.miguvideo.com
+127.0.0.1 uem.migu.cn
+127.0.0.1 cross-ad-api.afunapp.com
+127.0.0.1 log3-misc-hl.amemv.com
+
+
 127.0.0.1 yiyouliao.com
 127.0.0.1 wejianzhan.com
 127.0.0.1 adanxing.com
@@ -31,7 +83,6 @@
 #aliyuncs
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 adash-emas.cn-hangzhou.aliyuncs.com
-127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
@@ -40,7 +91,6 @@
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 mpush-api.aliyun.com
-127.0.0.1 ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 ttjx-online.cn-hangzhou.log.aliyuncs.com
 127.0.0.1 xz-development.oss-cn-beijing.aliyuncs.com
 #amap
@@ -304,16 +354,6 @@
 127.0.0.1 toruk.gds.tanx.com
 127.0.0.1 live-ifs.tanx.com
 127.0.0.1 ssp.tanx.com
-#taobao
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 ai.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 re.taobao.com
-127.0.0.1 redirect.simba.taobao.com
-127.0.0.1 show.re.taobao.com
-127.0.0.1 strip.taobaocdn.com
-127.0.0.1 temai.taobao.com
-127.0.0.1 tunion-api.m.taobao.com
 #uc
 127.0.0.1 adn.insight.ucweb.com
 127.0.0.1 adtrack.ucweb.com
